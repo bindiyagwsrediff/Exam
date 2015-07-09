@@ -6,4 +6,8 @@ public class hello {
 	
 	
 	int l;
+	
+	
+	
+	String jj;
 }
