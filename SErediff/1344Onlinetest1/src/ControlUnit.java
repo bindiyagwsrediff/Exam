@@ -56,7 +56,9 @@ public class ControlUnit implements EVM{
 		bs.ballotButton();
 	}
 	
-	
+	public void count(){
+		
+	}
 	
 	
 }
